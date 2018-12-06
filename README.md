@@ -1,6 +1,6 @@
-# Docker Vowpal Wabbit
+Docker Vowpal Wabbit
 
-This project provides a dockerised version of [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) (v8.5.0) based on an Alpine Docker image (v3.7).
+This project provides a dockerised version of [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) (v8.6.1) based on an Alpine Docker image (v3.7).
 
 ## Pull the image
 
