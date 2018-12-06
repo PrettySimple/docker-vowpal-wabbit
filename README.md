@@ -25,3 +25,11 @@ To run vowpal wabbit and let it listen to stdin:
 ```bash
 docker run -i supertracker/vowpal_wabbit vw
 ```
+
+## Add a new VW version
+
+This has to be done from git. Update README.md and install_vw.sh and commit. Then run (after updating line 1 with the relevant version):
+```bash
+git tag -a x.x.x -m "VW version: x.x.x"
+git push --folow-tags
+```
